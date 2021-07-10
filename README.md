@@ -30,7 +30,8 @@ Spcifically for this deliverable we did the following:
 9. Generate a list of categorical variables.
 10. Encode categorical variables using one-hot encoding, and place the variables in a new DataFrame.
 11. Merge the one-hot encoding DataFrame with the original DataFrame, and drop the originals (see below).
-alt text
+
+![alt text](https://github.com/austin020269/Neutal_Network_Charity_Analysis/blob/main/Deli1_1.PNG)
 
 12. Split the preprocessed data into features and target arrays.
 13. Split the preprocessed data into training and testing datasets.
