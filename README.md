@@ -35,7 +35,7 @@ Spcifically for this deliverable we did the following:
 
 12. Split the preprocessed data into features and target arrays.
 13. Split the preprocessed data into training and testing datasets.
-14. Standardize numerical variables using Scikit-Learn’s StandardScaler class, then scale the data.
+14. Standardize numerical variables using Scikit-Learn’s StandardScaler class, then scale the data (see below).
 
 ![alt text](https://github.com/austin020269/Neural_Network_Charity_Analysis/blob/main/Deli1_2.PNG)
 
