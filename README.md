@@ -39,23 +39,30 @@ Spcifically for this deliverable we did the following:
 
 ![alt text](https://github.com/austin020269/Neural_Network_Charity_Analysis/blob/main/Deli1_2.PNG)
 
-Deliverable 2: Compile, Train, and Evaluate the Model
+### Deliverable 2: Compile, Train, and Evaluate the Model
 Specifically for this deliverable we did the following:
 
-Continue using the AlphabetSoupCharity.ipynb file where you’ve already performed the preprocessing steps from Deliverable 1.
-Create a neural network model by assigning the number of input features and nodes for each layer using Tensorflow Keras.
-Create the first hidden layer and choose an appropriate activation function.
-If necessary, add a second hidden layer with an appropriate activation function.
-Create an output layer with an appropriate activation function.
-Check the structure of the model.
-Compile and train the model.
-Create a callback that saves the model's weights every 5 epochs.
-Evaluate the model using the test data to determine the loss and accuracy.
-Save and export your results to an HDF5 file, and name it AlphabetSoupCharity.h5. alt text
-Deliverable 3: Optimize the Model
+1. Continue using the AlphabetSoupCharity.ipynb file where you’ve already performed the preprocessing steps from Deliverable 1.
+2. Create a neural network model by assigning the number of input features and nodes for each layer using Tensorflow Keras.
+3. Create the first hidden layer and choose an appropriate activation function.
+4. If necessary, add a second hidden layer with an appropriate activation function.
+5. Create an output layer with an appropriate activation function.
+6. Check the structure of the model.
+7. Compile and train the model.
+8. Create a callback that saves the model's weights every 5 epochs.
+9. Evaluate the model using the test data to determine the loss and accuracy.
+9. Save and export your results to an HDF5 file, and name it AlphabetSoupCharity.h5. alt text
+
+### Deliverable 3: Optimize the Model
 Specifically for this deliverable we did the following:
 
-Create a new Jupyter Notebook file and name it AlphabetSoupCharity_Optimzation.ipynb. Import your dependencies, and read in the charity_data.csv to a Pandas DataFrame. Preprocess the dataset like you did in Deliverable 1, taking into account any modifications to optimize the model. Design a neural network model, taking into account any modifications that will optimize the model to achieve higher than 75% accuracy. Create a callback that saves the model's weights every 5 epochs. Save and export your results to an HDF5 file, and name it AlphabetSoupCharity_Optimization.h5. alt text
+1. Create a new Jupyter Notebook file and name it AlphabetSoupCharity_Optimzation.ipynb. Import your dependencies, and read in the charity_data.csv to a Pandas DataFrame. 
+2. Preprocess the dataset like you did in Deliverable 1, taking into account any modifications to optimize the model. 
+3. Design a neural network model, taking into account any modifications that will optimize the model to achieve higher than 75% accuracy. 
+4. Create a callback that saves the model's weights every 5 epochs. 
+5. Save and export your results to an HDF5 file, and name it AlphabetSoupCharity_Optimization.h5. alt text
 
-Deliverable 4: A Written Report on the Neural Network Model
-Results Summary
+### Deliverable 4: A Written Report on the Neural Network Model
+## Results 
+
+## Summary
