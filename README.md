@@ -51,7 +51,7 @@ Specifically for this deliverable we did the following:
 7. Compile and train the model.
 8. Create a callback that saves the model's weights every 5 epochs.
 9. Evaluate the model using the test data to determine the loss and accuracy.
-9. Save and export your results to an HDF5 file, and name it AlphabetSoupCharity.h5. 
+9. Save and export your results to an HDF5 file, and name it AlphabetSoupCharity.h5 (see below). 
 
 ![alt text](https://github.com/austin020269/Neural_Network_Charity_Analysis/blob/main/Deli2_1.PNG)
 
@@ -62,7 +62,9 @@ Specifically for this deliverable we did the following:
 2. Preprocess the dataset like you did in Deliverable 1, taking into account any modifications to optimize the model. 
 3. Design a neural network model, taking into account any modifications that will optimize the model to achieve higher than 75% accuracy. 
 4. Create a callback that saves the model's weights every 5 epochs. 
-5. Save and export your results to an HDF5 file, and name it AlphabetSoupCharity_Optimization.h5. alt text
+5. Save and export your results to an HDF5 file, and name it AlphabetSoupCharity_Optimization.h5 (see below).
+
+![alt text](https://github.com/austin020269/Neural_Network_Charity_Analysis/blob/main/Deli3_1.PNG)
 
 ### Deliverable 4: A Written Report on the Neural Network Model
 ## Results 
