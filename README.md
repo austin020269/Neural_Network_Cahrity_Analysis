@@ -37,9 +37,7 @@ Spcifically for this deliverable we did the following:
 13. Split the preprocessed data into training and testing datasets.
 14. Standardize numerical variables using Scikit-Learn’s StandardScaler class, then scale the data.
 
-Code:
-
-alt text
+![alt text](https://github.com/austin020269/Neural_Network_Charity_Analysis/blob/main/Deli1_2.PNG)
 
 Deliverable 2: Compile, Train, and Evaluate the Model
 Specifically for this deliverable we did the following:
