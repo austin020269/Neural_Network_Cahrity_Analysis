@@ -36,9 +36,10 @@ alt text
 10. Split the preprocessed data into features and target arrays.
 11. Split the preprocessed data into training and testing datasets.
 12. Standardize numerical variables using Scikit-Learn’s StandardScaler class, then scale the data.
-Code:
+Code;
+![alt text](https://github.com/austin020269/Cryptocurrencies/blob/main/Deli1_1.PNG)
 
-alt text
+![alt text](https://github.com/austin020269/Cryptocurrencies/blob/main/Deli1_1.PNG)
 
 ### Deliverable 2: Compile, Train, and Evaluate the Model
 Specifically for this deliverable we did the following:
