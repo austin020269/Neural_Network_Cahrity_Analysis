@@ -31,15 +31,18 @@ Spcifically for this deliverable we did the following:
 7. Generate a list of categorical variables.
 8. Encode categorical variables using one-hot encoding, and place the variables in a new DataFrame.
 9. Merge the one-hot encoding DataFrame with the original DataFrame, and drop the originals (see below).
-alt text
+
+![alt text](https://github.com/austin020269/Neural_Network_Charity_Analysis/blob/main/Deli1_1.PNG)
 
 10. Split the preprocessed data into features and target arrays.
 11. Split the preprocessed data into training and testing datasets.
 12. Standardize numerical variables using Scikit-Learn’s StandardScaler class, then scale the data.
-Code;
-![alt text](https://github.com/austin020269/Cryptocurrencies/blob/main/Deli1_1.PNG)
 
-![alt text](https://github.com/austin020269/Cryptocurrencies/blob/main/Deli1_1.PNG)
+Code:
+
+![alt text](https://github.com/austin020269/Neural_Network_Charity_Analysis/blob/main/Deli1_1.PNG)
+
+
 
 ### Deliverable 2: Compile, Train, and Evaluate the Model
 Specifically for this deliverable we did the following:
