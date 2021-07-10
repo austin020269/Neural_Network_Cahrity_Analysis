@@ -53,7 +53,7 @@ Specifically for this deliverable we did the following:
 9. Evaluate the model using the test data to determine the loss and accuracy.
 9. Save and export your results to an HDF5 file, and name it AlphabetSoupCharity.h5. 
 
-![alt text](https://github.com/austin020269/Neural_Network_Charity_Analysis/blob/main/Deli1_2.PNG)
+![alt text](https://github.com/austin020269/Neural_Network_Charity_Analysis/blob/main/Deli2_1.PNG)
 
 ### Deliverable 3: Optimize the Model
 Specifically for this deliverable we did the following:
