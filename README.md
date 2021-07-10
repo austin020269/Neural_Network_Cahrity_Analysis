@@ -67,4 +67,4 @@ Specifically for this deliverable we did the following:
 ### Deliverable 4: A Written Report on the Neural Network Model
 ## Results 
 
-## S
+## Summary
