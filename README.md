@@ -30,7 +30,7 @@ Spcifically for this deliverable we did the following:
 8. Encode categorical variables using one-hot encoding, and place the variables in a new DataFrame.
 9. Merge the one-hot encoding DataFrame with the original DataFrame, and drop the originals (see below).
 
-![alt text](https://github.com/austin020269/Cryptocurrencies/blob/main/Deli1_1.PNG)
+![alt text]()
 
 10. Split the preprocessed data into features and target arrays.
 11. Split the preprocessed data into training and testing datasets.
@@ -38,7 +38,7 @@ Spcifically for this deliverable we did the following:
 
 Code:
 
-![alt text](https://github.com/austin020269/Cryptocurrencies/blob/main/Deli1_2.PNG)
+![alt text]()
 
 ### Deliverable 2: Compile, Train, and Evaluate the Model 
 
@@ -54,7 +54,7 @@ Specifically for this deliverable we did the following:
 9. Evaluate the model using the test data to determine the loss and accuracy.
 10. Save and export your results to an HDF5 file, and name it AlphabetSoupCharity.h5.
 
-![alt text](https://github.com/austin020269/Cryptocurrencies/blob/main/Deli2_1.PNG)
+![alt text]()
 
 ### Deliverable 3: Optimize the Model
 
@@ -66,7 +66,7 @@ Specifically for this deliverable we did the following:
 5. Create a callback that saves the model's weights every 5 epochs.
 6. Save and export your results to an HDF5 file, and name it AlphabetSoupCharity_Optimization.h5.
 
-![alt text](https://github.com/austin020269/Cryptocurrencies/blob/main/Deli3_1.PNG)
+![alt text]()
 
 
 ### Deliverable 4: A Written Report on the Neural Network Model
