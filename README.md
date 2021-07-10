@@ -51,7 +51,9 @@ Specifically for this deliverable we did the following:
 7. Compile and train the model.
 8. Create a callback that saves the model's weights every 5 epochs.
 9. Evaluate the model using the test data to determine the loss and accuracy.
-9. Save and export your results to an HDF5 file, and name it AlphabetSoupCharity.h5. alt text
+9. Save and export your results to an HDF5 file, and name it AlphabetSoupCharity.h5. 
+
+![alt text](https://github.com/austin020269/Neural_Network_Charity_Analysis/blob/main/Deli1_2.PNG)
 
 ### Deliverable 3: Optimize the Model
 Specifically for this deliverable we did the following:
