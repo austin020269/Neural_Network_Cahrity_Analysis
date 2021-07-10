@@ -30,7 +30,7 @@ Spcifically for this deliverable we did the following:
 8. Encode categorical variables using one-hot encoding, and place the variables in a new DataFrame.
 9. Merge the one-hot encoding DataFrame with the original DataFrame, and drop the originals (see below).
 
-![alt text]()
+![alt text](https://github.com/austin020269/Neural_Network_Charity_Analysis/blob/main/Deli1_1.PNG)
 
 10. Split the preprocessed data into features and target arrays.
 11. Split the preprocessed data into training and testing datasets.
