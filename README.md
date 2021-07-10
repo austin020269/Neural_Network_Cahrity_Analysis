@@ -7,13 +7,12 @@ Use neural networks and to create a binary classifier that is capable of predict
 
 ## Resources
 Data Sources provided to analyze and minipulate included:
+- Alphabet Soup Charity dataset (charity_data.csv)
 
--Alphabet Soup Charity dataset (charity_data.csv)
 Software utilized for this study included:
-
--Python 3.7.6
--Pandas
--Personal GitHub account
+- Python 3.7.6
+- Pandas
+- Personal GitHub account
 
 ## Analysis and Workflow
 
