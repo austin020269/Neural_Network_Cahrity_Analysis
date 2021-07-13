@@ -70,9 +70,12 @@ Specifically for this deliverable we did the following:
 ## Results 
 
 # Data Preprocessing
+The prepocessing steps of the chosen model wanted to address the following questions:
 1. What variable(s) are considered the target(s) for your model?
 2. What variable(s) are considered to be the features for your model?
 3. What variable(s) are neither targets nor features, and should be removed from the input data?
+
+After looking at the data, I established that the target variable is the "IS_SUCCESSFUL" column. I then removed the "EIN" and "NAME" columns as they did not offer any relevant data that could help the model perform better. The remaining columns became the features for the model.
 
 # Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
