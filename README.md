@@ -69,13 +69,13 @@ Specifically for this deliverable we did the following:
 ### Deliverable 4: A Written Report on the Neural Network Model
 ## Results 
 
-# Data Preprocessing
+#### Data Preprocessing
 The prepocessing steps of the chosen model wanted to address the following questions:
 1. What variable(s) are considered the target(s) for your model?  I created a target variable as the "IS_SUCCESSFUL" column.
 2. What variable(s) are considered to be the features for your model?  All columns other than the "EIN" and "NAME" were considered model features.
 3. What variable(s) are neither targets nor features, and should be removed from the input data?  The "EIN" and "NAME" columns were removed because they did not offrer any benefit to the model.
 
-# Compiling, Training, and Evaluating the Model
+#### Compiling, Training, and Evaluating the Model
 During this step we wanted to address the following questions:
 1. How many neurons, layers, and activation functions did you select for your neural network model, and why?
 2. Were you able to achieve the target model performance?  I was not able to achieve the target model performance of 75% but only 72.3%
