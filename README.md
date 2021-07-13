@@ -76,8 +76,9 @@ The prepocessing steps of the chosen model wanted to address the following quest
 3. What variable(s) are neither targets nor features, and should be removed from the input data?  The "EIN" and "NAME" columns were removed because they did not offrer any benefit to the model.
 
 # Compiling, Training, and Evaluating the Model
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
-Were you able to achieve the target model performance?  I was not able to achieve the target model performance of 75% but only 72.3%
-What steps did you take to try and increase model performance?
+During this step we wanted to address the following questions:
+1. How many neurons, layers, and activation functions did you select for your neural network model, and why?
+2. Were you able to achieve the target model performance?  I was not able to achieve the target model performance of 75% but only 72.3%
+3. What steps did you take to try and increase model performance?
 
 ## Summary
