@@ -82,3 +82,4 @@ During this step we wanted to address the following questions:
 3. What steps did you take to try and increase model performance?
 
 ## Summary
+I was unable to obtain the 75% accuracy target.  Options that could be changed and may yield a higher accuracy would be using a differtn activation function or using a different number of number layer/neuron combination.
