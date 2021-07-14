@@ -73,7 +73,7 @@ Specifically for this deliverable we did the following:
 The prepocessing steps of the chosen model wanted to address the following questions:
 1. What variable(s) are considered the target(s) for your model?  I created a target variable as the "IS_SUCCESSFUL" column.
 2. What variable(s) are considered to be the features for your model?  All columns other than the "EIN" and "NAME" were considered model features.
-3. What variable(s) are neither targets nor features, and should be removed from the input data?  The "EIN" and "NAME" columns were removed because they did not offrer any benefit to the model.
+3. What variable(s) are neither targets nor features, and should be removed from the input data?  The "EIN" and "NAME" columns were removed because they did not offer any benefit to the model.
 
 #### Compiling, Training, and Evaluating the Model
 During this step we wanted to address the following questions:
