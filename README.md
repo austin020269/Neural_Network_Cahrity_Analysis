@@ -55,6 +55,8 @@ Specifically for this deliverable we did the following:
 
 ![alt text](https://github.com/austin020269/Neural_Network_Charity_Analysis/blob/main/Deli2_1.PNG)
 
+Code: https://github.com/austin020269/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb
+
 ### Deliverable 3: Optimize the Model
 Specifically for this deliverable we did the following:
 
@@ -65,6 +67,8 @@ Specifically for this deliverable we did the following:
 5. Save and export your results to an HDF5 file, and name it AlphabetSoupCharity_Optimization.h5 (see below).
 
 ![alt text](https://github.com/austin020269/Neural_Network_Charity_Analysis/blob/main/Deli3_1.PNG)
+
+Code: https://github.com/austin020269/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization.ipynb
 
 ### Deliverable 4: A Written Report on the Neural Network Model
 ## Results 
