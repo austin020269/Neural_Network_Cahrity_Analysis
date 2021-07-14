@@ -81,7 +81,7 @@ The prepocessing steps of the chosen model wanted to address the following quest
 
 #### Compiling, Training, and Evaluating the Model
 During this step we wanted to address the following questions:
-1. How many neurons, layers, and activation functions did you select for your neural network model, and why?  This was trial and error starting wityh 12 in the first layer and 6 in the second layer.  Changing these numbers did not measurably effect the outcome of my accuracy score.
+1. How many neurons, layers, and activation functions did you select for your neural network model, and why?  This was trial and error starting with 2 layers and 12 neurons in the first layer and 6 in the second layer.  Changing these numbers did not measurably effect the outcome of my accuracy score.  I used the relu function throughout all of my models because it does better with nonlinear data.
 2. Were you able to achieve the target model performance?  I was not able to achieve the target model performance of 75% but only 72.3%
 3. What steps did you take to try and increase model performance?  I changed the layer/neuron combination a number of times without any change to the overall accuracy score.
 
